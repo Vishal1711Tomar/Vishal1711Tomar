@@ -22,7 +22,7 @@ I am a versatile full-stack developer with a passion for crafting immersive web 
   Created a basic AR application to plot characters in Augmented Reality using Unity 3D.
 - **Crashing Crate**  
   An Android FPS shooting game with high graphics and offline mode using Unity 3D.
-- **Voice Controlled 3D Object Navigation Game (Patent Project)**  
+- **Voice Controlled 3D Object Navigation Game (Published Project)**  
   A voice-controlled game where players collect coins and control movement using voice commands.
 
 ## Technical Skills
