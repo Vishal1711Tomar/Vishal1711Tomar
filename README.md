@@ -1,4 +1,6 @@
 # Welcome to My GitHub Profile!
+LinkedIn Profile - https://www.linkedin.com/in/vishal-tomar-90ba2a1a8/
+Portfolio Link -   https://vishal1711tomar.github.io/Vishal-Tomar-Portfolio/
 
 ## About Me
 I am a versatile full-stack developer with a passion for crafting immersive web applications and games. With expertise in C#, ASP.NET, Angular, TypeScript, Unity 3D, and SQL, I thrive in both backend and frontend development environments. My goal is to create impactful and engaging experiences for users through innovative solutions and cutting-edge technologies.
