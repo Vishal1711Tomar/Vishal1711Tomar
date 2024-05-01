@@ -34,6 +34,8 @@ I am a versatile full-stack developer with a passion for crafting immersive web 
 
 ## Certifications 🏅
 - Complete C# Unity Game Developer 3D
+- Angular - The Complete Guide (2024 Edition)
+- The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert 
 - Microsoft SQL for Beginners
 - Android App Developer
 - Git & GitHub Masterclass
