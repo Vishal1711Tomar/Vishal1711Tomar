@@ -29,8 +29,13 @@ I am a versatile full-stack developer with a passion for crafting immersive web 
   A voice-controlled game where players collect coins and control movement using voice commands.
 
 ## Technical Skills 💻
-- **Programming Languages:** C#, Angular, .Net, JavaScript, TypeScript
-- **Tools and Frameworks:** Jupyter, Visual Studio, SQL Server, Unity 3D, FPS Game
+- **Programming Languages:** C# (Unity), JavaScript, TypeScript, .NET, Angular
+- **Game Development:** Unity 3D (3D games), Gameplay Mechanics, Physics, AI Programming
+- **Animation:** Animation System (Animator, Controllers, Blend Trees)
+- **Multiplayer Systems:** Photon Engine, Mirror
+- **Version Control:** Git/GitHub, Azure Studios
+- **Database:** SQL Server
+- **Platform-Specific Development:** Android, Windows
 
 ## Certifications 🏅
 - Complete C# Unity Game Developer 3D
