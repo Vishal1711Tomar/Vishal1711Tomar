@@ -6,7 +6,7 @@ A passionate full-stack developer with a focus on game development and web appli
 
 👨‍💻 All of my projects are available at [My Portfolio](https://vishal1711tomar.github.io/Vishal-Tomar-Portfolio/)
 
-📫 How to reach me: vishaltomar1711@gmail.com
+📫 How to reach me: vishaltomar2k23@gmail.com
 
 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1gbjURR112owIivevueFn6ghRbHU2F1xN/view?usp=sharing)
 
