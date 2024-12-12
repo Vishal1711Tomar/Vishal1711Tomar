@@ -1,4 +1,4 @@
-# ![logo](LinkedIn Banner.png)  
+
 Hi 👋, I'm Vishal Tomar  
 A passionate full-stack developer with a focus on game development and web applications from India
 
