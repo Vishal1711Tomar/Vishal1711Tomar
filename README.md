@@ -96,7 +96,7 @@
 - Organiser of National Event Hackathon 2k22 & 2k23 at COER College
 - Ranked 11th out of 35 teams in IIT Roorkee Cognizance’22 Tech Fest
 - Ranked 1st out of 50 teams in Projects on the occasion of College Foundation Day Tech Fest 2021
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal1711tomar" alt="vishal1711tomar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal1711tomar&" alt="vishal1711tomar" /></p>
 
 ###
 
