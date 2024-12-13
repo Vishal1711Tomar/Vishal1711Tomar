@@ -100,7 +100,7 @@
 
 ###
 
-![Snake animation](https://github.com/TyagiManshi/TyagiManshi/raw/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Vishal1711Tomar/Vishal1711Tomar/refs/heads/main/snake.svg)
 
 
 
